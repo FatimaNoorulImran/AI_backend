@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# Avatar chat brain
+groq
+
+# Pronunciation checking
+faster-whisper
+edge-tts
+python-multipart
+
+# Firebase
+firebase-admin
